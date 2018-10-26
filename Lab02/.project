@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Hello.java</name>
-			<type>1</type>
-			<location>/Users/Andrew/Downloads/Hello.java</location>
-		</link>
-	</linkedResources>
 </projectDescription>
